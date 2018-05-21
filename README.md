@@ -1,2 +1,1 @@
-# aardwolf-tips
-Tips for Character building on Aardwolf MUD
+See: https://github.com/AardDaak/aardwolf-tips/wiki
