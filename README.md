@@ -1,1 +1,1 @@
-See: https://github.com/AardDaak/aardwolf-tips/wiki
+Moved: http://www.aardwolf.com/wiki/index.php/NewbieInfo/SpendingTips
